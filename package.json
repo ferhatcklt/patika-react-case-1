@@ -1,11 +1,15 @@
 {
-  "name": "patika-react-case-1",
-  "version": "1.0.0",
-  "description": "Patika.dev react dersleri ödev 1",
-  "main": "index.js",
-  "scripts": {
-    "test": "patik"
-  },
-  "author": "ferhat",
-  "license": "ISC"
+    "name": "patika-react-case-1",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Patika.dev react dersleri ödev 1",
+    "main": "index.js",
+    "scripts": {
+        "test": "patika"
+    },
+    "author": "ferhat",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.27.2"
+    }
 }
