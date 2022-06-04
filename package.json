@@ -1,0 +1,11 @@
+{
+  "name": "patika-react-case-1",
+  "version": "1.0.0",
+  "description": "Patika.dev react dersleri ödev 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "patik"
+  },
+  "author": "ferhat",
+  "license": "ISC"
+}
